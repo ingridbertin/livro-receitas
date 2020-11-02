@@ -3,4 +3,5 @@
 Olá! Bem vido ao meu livro de receitas
 
 * Bolo de chocolate simples
+* Pavê
 * Bolo de cenoura
